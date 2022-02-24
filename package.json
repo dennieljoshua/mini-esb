@@ -1,0 +1,16 @@
+{
+  "name": "mini-esb",
+  "version": "0.0.1",
+  "description": "Mini Enterprise Service Bus",
+  "main": "index.js",
+  "author": "DJ Diaz",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "fastify": "^3.27.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.5.5"
+  }
+}
